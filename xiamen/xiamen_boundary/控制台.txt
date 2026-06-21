@@ -1,0 +1,29 @@
+E:\Program_files\Anaconda3\envs\xiamen_viirs\python.exe D:\Data_Mining\final\xiamen\xiamen_viirs.py 
+输出文件夹： C:\Users\hz\Desktop\xiamen_boundary
+厦门市下辖区：
+湖里区 350206
+思明区 350203
+翔安区 350213
+集美区 350211
+海沧区 350205
+同安区 350212
+正在获取边界：湖里区 350206
+正在获取边界：思明区 350203
+正在获取边界：翔安区 350213
+正在获取边界：集美区 350211
+正在获取边界：海沧区 350205
+正在获取边界：同安区 350212
+  district  ...                                           geometry
+0      湖里区  ...  MULTIPOLYGON (((118.20047 24.50362, 118.2006 2...
+1      思明区  ...  MULTIPOLYGON (((118.06954 24.43541, 118.06794 ...
+2      翔安区  ...  MULTIPOLYGON (((118.4073 24.54969, 118.40726 2...
+3      集美区  ...  POLYGON ((117.94455 24.75042, 117.9513 24.7463...
+4      海沧区  ...  POLYGON ((117.96408 24.44406, 117.96102 24.449...
+5      同安区  ...  POLYGON ((118.2295 24.83116, 118.22921 24.8276...
+
+[6 rows x 6 columns]
+EPSG:4326
+GeoJSON 已保存： C:\Users\hz\Desktop\xiamen_boundary\xiamen_districts_amap.geojson
+Shapefile 已保存： C:\Users\hz\Desktop\xiamen_boundary\xiamen_districts_amap.shp
+
+进程已结束，退出代码为 0
